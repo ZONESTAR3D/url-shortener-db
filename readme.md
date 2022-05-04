@@ -9,3 +9,5 @@
 #### https://doc.zonestar3d.com/8       :arrow_right: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2
 #### https://doc.zonestar3d.com/9       :arrow_right: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3
 #### https://doc.zonestar3d.com/10      :arrow_right: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4
+#### https://doc.zonestar3d.com/11      :arrow_right: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer
+#### https://doc.zonestar3d.com/12      :arrow_right: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode
